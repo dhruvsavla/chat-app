@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "chat-app-c90ee",
+    "dev": "chat-app-c90ee"
+  },
+  "targets": {},
+  "etags": {}
+}
